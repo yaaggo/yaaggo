@@ -20,7 +20,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor que gosta muito de resol
 - 🧩 Sou competidor em **maratona de programação**.
 - 🖥️ Atualmente estudando **sistemas embarcados** em C no **Raspberry Pi Pico W**.
 - ✨ Explorando também o desenvolvimento de **interfaces gráficas com SDL2 em C**.
-- 💡 Amo aprender novas linguagens e ferramentas, e colaborar com projetos que me desafiem.
+- 💡 Gosto de aprender novas linguagens e ferramentas.
 
 ---
 
