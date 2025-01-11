@@ -1,4 +1,4 @@
-# 👋 Opa! sou **Yago**.
+# 👋 Opa! Sou **Yago**.
 
 Sou um desenvolvedor que gosta muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados** e **desenvolvimento de interfaces gráficas**, mas sempre aberto a aprender mais e colaborar com projetos interessantes.
 
