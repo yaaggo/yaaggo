@@ -1,6 +1,6 @@
 # 👋 Opa! Sou **Yago**.
 
-Sou um desenvolvedor que gosta muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados** e **desenvolvimento de interfaces gráficas**, mas sempre aberto a aprender mais e colaborar com projetos interessantes.
+Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados** e **computação gráfica**, mas sempre aberto a aprender mais.
 
 ---
 
@@ -20,7 +20,7 @@ Sou um desenvolvedor que gosta muito de resolver problemas e aprender sobre prog
 - 🧩 Sou competidor em **maratona de programação**.
 - 🖥️ Atualmente estudando **sistemas embarcados** em C no **Raspberry Pi Pico W**.
 - ✨ Explorando também o desenvolvimento de **interfaces gráficas com SDL2 em C**.
-- 💡 Gosto de aprender novas linguagens e ferramentas.
+- 💡 Gosto de aprender sobre como as coisas realmente funcionam.
 
 ---
 
@@ -52,6 +52,6 @@ Mesmo não tendo muita utilidade, acho bastante interessante a ideia de fazer re
 - 🐦 [Instagram](https://www.instagram.com/y._ago/)
 - 🖥️ [YouTube](https://www.youtube.com/@yago4614/streams)
 
-Se você curte resolver problemas complexos, explorar sistemas embarcados ou construir interfaces gráficas, ótimo! Vamos conversar e colaborar. ⭐
+⭐
 
 ---
