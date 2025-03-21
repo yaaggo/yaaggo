@@ -1,6 +1,6 @@
 # 👋 Opa! Sou **Yago**.
 
-Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados** e **computação gráfica**, mas sempre aberto a aprender mais.
+Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados**, mas sempre aberto a aprender mais.
 
 ---
 
@@ -19,7 +19,6 @@ Gosto muito de resolver problemas e aprender sobre programação em geral. Atual
 
 - 🧩 Sou competidor em **maratona de programação**.
 - 🖥️ Atualmente estudando **sistemas embarcados** em C no **Raspberry Pi Pico W**.
-- ✨ Explorando também o desenvolvimento de **interfaces gráficas com SDL2 em C**.
 - 💡 Gosto de aprender sobre como as coisas realmente funcionam.
 
 ---
@@ -28,12 +27,6 @@ Gosto muito de resolver problemas e aprender sobre programação em geral. Atual
 
 ### Sistemas embarcados com C:
 Atualmente, estou explorando como desenvolver soluções eficientes em dispositivos embarcados com foco no Raspberry Pi Pico W. Minha área de estudo inclui comunicação via GPIO, protocolos (SPI, I2C), e conexões Wi-Fi.
-
-### Interfaces gráficas com SDL:
-Estou desenvolvendo aplicações visuais e interativas utilizando a biblioteca SDL („Simple DirectMedia Layer“), aprendendo mais sobre renderização de gráficos, eventos e análise de desempenho.
-
-### Reprodução gráfica utilizando o Terminal:
-Mesmo não tendo muita utilidade, acho bastante interessante a ideia de fazer representações visuais em ascii usando o terminal, tendo alguns projetos sendo feitos nessa área.
 
 ---
 
@@ -52,6 +45,6 @@ Mesmo não tendo muita utilidade, acho bastante interessante a ideia de fazer re
 - 🐦 [Instagram](https://www.instagram.com/y._ago/)
 - 🖥️ [YouTube](https://www.youtube.com/@yago4614/streams)
 
+<div align="center">
 ⭐
-
----
+</div>
