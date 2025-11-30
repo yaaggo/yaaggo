@@ -12,6 +12,8 @@ Gosto muito de resolver problemas e aprender sobre programação em geral. Atual
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SDL](https://img.shields.io/badge/-SDL-FF6C37?style=flat-square&logo=SimpleDirectMediaLayer&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![Verilog](https://img.shields.io/badge/-Verilog-000000?style=flat-square&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-005F9E?style=flat-square&logo=vhdl&logoColor=white)
 
 ---
 
