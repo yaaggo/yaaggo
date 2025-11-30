@@ -1,44 +1,37 @@
-# 👋 Opa! Sou **Yago**
+tenho meu readme
 
-Sou apaixonado por resolver problemas e aprender sobre computação.
+# 👋 Opa! Sou **Yago**.
 
----
-
-## 🛠️ Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<!-- Verilog & VHDL (ícones genéricos porém elegantes) -->
-
-<img height="32" src="https://img.icons8.com/ios-filled/50/000000/microchip.png" title="Verilog"/>
-<img height="32" src="https://img.icons8.com/ios-filled/50/000000/electronics.png" title="VHDL"/>
-
-</div>
+Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados**, mas sempre aberto a aprender mais.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas:
+
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SDL](https://img.shields.io/badge/-SDL-FF6C37?style=flat-square&logo=SimpleDirectMediaLayer&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+
+---
+
+## 📈 Minhas Estatísticas no GitHub:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaaggo&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaggo&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaaggo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaggo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 🌍 Onde me encontrar
+## 🌍 Onde me encontrar:
 
-* 💼  [LinkedIn](https://www.linkedin.com/in/yago-guirra/)
-* 📷  [Instagram](https://www.instagram.com/y._ago/)
-* 🎥  [YouTube](https://www.youtube.com/@yago4614/streams)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yago-guirra-b88803229/)
+- 🐦 [Instagram](https://www.instagram.com/y._ago/)
+- 🖥️ [YouTube](https://www.youtube.com/@yago4614/streams)
 
----
-
-<div align="center">✨</div>
+<div align="center">
+⭐
+</div>
