@@ -1,5 +1,3 @@
-tenho meu readme
-
 # 👋 Opa! Sou **Yago**.
 
 Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados**, mas sempre aberto a aprender mais.
