@@ -1,35 +1,21 @@
-# 👋 Opa! Sou **Yago**.
+<p align="center">
+  <img src="assets/geometry.gif" alt="Cubo geométrico em caracteres ASCII girando" width="720">
+</p>
 
-Gosto muito de resolver problemas e aprender sobre programação em geral. Atualmente, estou me aprofundando em **sistemas embarcados**, mas sempre aberto a aprender mais.
+<h1 align="center">yago <sub> / </sub> yaaggo</h1>
 
----
+<p align="center">Desenvolvedor explorando software e sistemas embarcados.</p>
 
-## 🛠️ Tecnologias e Ferramentas:
+<br>
 
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SDL](https://img.shields.io/badge/-SDL-FF6C37?style=flat-square&logo=SimpleDirectMediaLayer&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+<p align="center">
+  ◈ &nbsp; código &nbsp; / &nbsp; hardware &nbsp; / &nbsp; experimentação
+</p>
 
----
+<br>
 
-## 📈 Minhas Estatísticas no GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaaggo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaggo&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
-## 🌍 Onde me encontrar:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yago-guirra-b88803229/)
-- 🐦 [Instagram](https://www.instagram.com/y._ago/)
-- 🖥️ [YouTube](https://www.youtube.com/@yago4614/streams)
-
-<div align="center">
-⭐
-</div>
+<p align="center">
+  <a href="https://github.com/yaaggo?tab=repositories">↗ &nbsp; repositórios</a>
+  &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://github.com/yaaggo">↗ &nbsp; perfil</a>
+</p>
