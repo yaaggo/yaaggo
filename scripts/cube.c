@@ -66,7 +66,7 @@ float A1 = 0, A2 = 0, A3 = 0;
 
 void surface(float x, float y, float z, int n){
     ROTATE_X(x, y, z, A1);
-    ROTATE_Z(x, y, z, A2);
+    ROTATE_Y(x, y, z, A2);
     ROTATE_Z(x, y, z, A3);
 
     float D = 1.0 / (z + CAM_DISTANCE);
