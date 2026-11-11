@@ -58,6 +58,9 @@ jobs:
           data = source.read_bytes()
           if len(data) > 2_000_000 or ET.fromstring(data).tag != '{http://www.w3.org/2000/svg}svg':
               raise ValueError('Invalid calendar SVG')
+          palette = {b'#ebedf0': b'#21262d', b'#9be9a8': b'#484f58', b'#40c463': b'#6e7681', b'#30a14e': b'#aab2bd', b'#216e39': b'#e6edf3', b'#0366d6': b'#c9d1d9', b'color:#777': b'color:#8b949e'}
+          for old, new in palette.items():
+              data = data.replace(old, new)
           Path('assets/isocalendar.svg').write_bytes(data)
           PY
       - name: Commit calendar
@@ -72,3 +75,4 @@ jobs:
           git add assets/isocalendar.svg
           git commit -m 'Update contribution calendar'
           git -c http.extraheader="AUTHORIZATION: basic $(printf 'x-access-token:%s' "$GH_TOKEN" | base64 -w0)" push origin HEAD:main
+

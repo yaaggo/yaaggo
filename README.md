@@ -12,5 +12,10 @@
 
 <br>
 
+<p align="center"><img src="assets/isocalendar.svg" alt="Isometric contribution calendar" width="480"></p>
+
+<br>
+
 <p align="center"><a href="https://github.com/yaaggo?tab=repositories">↗ &nbsp; repositories</a></p>
+
 
