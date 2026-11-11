@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/geometry.gif" alt="A rotating ASCII cube" width="720">
+  <img src="assets/geometry.gif" alt="A rotating ASCII cube" width="600">
 </p>
 
 <h1 align="center">yago <sub> / </sub> yaaggo</h1>
@@ -20,3 +20,4 @@
     </td>
   </tr>
 </table>
+
